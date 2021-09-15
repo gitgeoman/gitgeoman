@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @gitgeoman
 - 👀 I’m interested in GIS and coding 
-- 🌱 I’m currently working on JS, 
-- 💞️ I’m looking to collaborate on spatial data projects / web GIS
 - 📫 How to reach me - just mail me :))
 
 <!---
