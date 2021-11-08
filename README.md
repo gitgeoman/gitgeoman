@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gitgeoman
-- 👀 I’m interested in GIS and coding 
+- 👀 I’m interested in  react coding 
 - 📫 How to reach me - just mail me :))
 
 <!---
