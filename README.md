@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gitgeoman
-- 👀 I’m interested in react coding, python, Data Analysis, ANN, GIS
+- 👀 I’m interested in react, python coding, Data Analysis, ML, GIS
 - 📫 How to reach me - just mail me :))
 
 
